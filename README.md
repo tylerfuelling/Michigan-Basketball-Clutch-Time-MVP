@@ -1,4 +1,4 @@
-# Sports-Analytics-Personal-Project---Michigan-Basketball
+# IN PROGRESS - Sports-Analytics-Personal-Project---Michigan-Basketball
 Sports analytics personal project examining the 2018-19 University of Michigan Men's Basketball Season in an attempt to determine 
 which player was most valuable to the team in important situations.
 
