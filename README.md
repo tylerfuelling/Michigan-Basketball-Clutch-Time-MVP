@@ -13,7 +13,7 @@ Expected Win Probabilities Added per Play Type was obtained from inpredictable.c
 
 https://www.inpredictable.com/2014/03/measuring-clutch-play-in-nba.html
 
-Although these probabilities were calculated for NBA games, this project relies on the assumption that the eWPA for college basketball games are relatively similar. Because they were not listed on the the website, I added my own "clutch score" value for an assist and one for all situations of drawing a foul.
+Although these probabilities were calculated for NBA games, this project relies on the assumption that the eWPA for college basketball games are relatively similar. Because they were not listed on the the website, I added my own "clutch score" value for an assist and one for all instances of drawing a foul.
 
 Other References:
 
