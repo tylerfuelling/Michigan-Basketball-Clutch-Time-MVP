@@ -3,7 +3,7 @@ Sports analytics personal project examining the 2018-19 University of Michigan M
 which player was most valuable to the team in important situations.
 
 Using the metric of Expected Win Probability Added, I will be examining every play from the season that occurred within the last 
-five minutes of a game in which the score differential is 6 points or less (two-possession game). By examining the eWPA, which will be referred to as "clutch score", for each player during these situations throughout the season, I can attempt to determine which player had the largest positive effect on eWP during "clutch" situations. For this project, I will only be examining the six players on Michigan's roster who averaged more than twenty minutes played per game.
+five minutes of a game in which the score differential is 6 points or less (two-possession game). By examining the eWPA, I will be creating my own metric, which will be referred to as "clutch score", for each player during these situations throughout the season. Using this metric, I will attempt to determine which player had the largest positive effect on eWP during "clutch" situations. For this project, I will only be examining the six players on Michigan's roster who averaged more than twenty minutes played per game.
 
 Play by play data was obtained from sports-reference.com
 
